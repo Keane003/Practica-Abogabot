@@ -18,4 +18,4 @@
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 ## Buyer persona
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
