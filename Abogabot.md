@@ -21,7 +21,7 @@
 [![persona.jpg](https://i.postimg.cc/tRsyRNjz/persona.jpg)](https://postimg.cc/fkQ1BXk3)
 
 ## Publico objetivo
-![Publico](publico.jpg)
+[![publico.jpg](https://i.postimg.cc/ZK6G0fD6/publico.jpg)](https://postimg.cc/mt2X5S4r)
 
 ## UX
 W.I.P
