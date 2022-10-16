@@ -24,7 +24,7 @@
 ![Publico](publico.jpg)
 
 ## UX
-###W.I.P
+W.I.P
 
 ## UI
-###W.I.P
+W.I.P
