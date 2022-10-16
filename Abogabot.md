@@ -1,2 +1,2 @@
-# Practica-Abogabot
+# Practicas de Intro a Frontend
 Practica de LaunchX
