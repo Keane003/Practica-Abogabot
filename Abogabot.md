@@ -19,3 +19,5 @@
 
 ## Buyer persona
 ![Buyer](2.-persona_page-0001.jpg)
+
+### Publico objetivo
