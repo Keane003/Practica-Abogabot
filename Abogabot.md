@@ -18,7 +18,7 @@
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 ## Buyer persona
-![Buyer](https://imgur.com/qjlh0aM)
+[persona.jpg](https://postimg.cc/fkQ1BXk3)
 
 ## Publico objetivo
 ![Publico](publico.jpg)
