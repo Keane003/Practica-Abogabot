@@ -21,4 +21,4 @@
 ![Buyer](2.-persona_page-0001.jpg)
 
 ## Publico objetivo
-![Buyer](2.-persona_page-0001.jpg)
+![Publico](publico.jpg)
