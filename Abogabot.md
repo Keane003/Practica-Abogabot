@@ -1,5 +1,5 @@
 # Caso Abogabot
-- [ ] Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
+1 Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 
 Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
 
@@ -17,4 +17,5 @@ La página debe de ser responsive para poderla ver desde el celular.
 
 La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
+## Buyer persona
 
